@@ -6,9 +6,11 @@ Assignment 4, Project 15-1: Improve Validation
 To test the customer management functionality, please follow these steps:
 
 **1. Access the Manage Customers Page:**
+
    From the main menu, select the Manage Customers option.
 
 **2. Search for a Customer by Last Name:**
+
    On the Search Customers page, enter Smith in the "Last Name" field.
    Click the Search button to display a list of customers with the last name "Smith."
 
